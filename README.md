@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 # 🛡️ AI-Based Smart Predictive Safety Helmet
 ### *An Intelligent Embedded Safety System Powered by Artificial Intelligence, Edge Computing, IoT, and Real-Time Health Monitoring.*
 
